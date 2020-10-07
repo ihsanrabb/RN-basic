@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ihsan",
+      "email": "rabbs@email.com",
+      "bidang": "bisnis",
+      "id": 1
+    },
+    {
+      "name": "cima",
+      "email": "cima@cimi.com",
+      "bidang": "123456",
+      "id": 4
+    },
+    {
+      "name": "Icreate",
+      "email": "Create@c.com",
+      "bidang": "Test",
+      "id": 5
+    }
+  ]
+}
